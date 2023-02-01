@@ -1,5 +1,5 @@
 
-# State Wise Stock Market Sentiment Analysis Using Web Scraping.
+# Targeted Advertising Based On Customer Sentiments.
 
 ## Aim of the Project : 
 The project's main aim is state-wise stock market sentiment analysis for social media keywords planning and advertisement.
